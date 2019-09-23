@@ -2,24 +2,23 @@
 
 ### Who I am
 
-Hello, internet readers, I am Brian Morck, (a.k.a. LinkedFate). I am a Senior at Boise State University pursuing a major in Computer Science with minor in Applied Mathematics.
+Hello, internet readers, I am Brian Morck, (a.k.a. LinkedFate). I am a Senior at Boise State University pursuing a major in Computer Science with a minor in Applied Mathematics.
 
 ```markdown
-Classes I am taking:
+**Interests:**
 
-# C Programming Language
-## Programming Languages
-### Introduction to Computational Math
+- Programming
+- Robotics
+- Machine Learning
+- Game development
+- Story writing
+- Gaming
+- Cyber Security
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
+_Even more interests:_
+1. TBD
 
 **Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
