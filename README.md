@@ -1,19 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Page
 
-You can use the [editor on GitHub](https://github.com/LinkedFate/LinkedFate.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Who I am
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Hello, internet readers, I am Brian Morck, (a.k.a. LinkedFate). I am a Senior at Boise State University pursuing a major in Computer Science with minor in Applied Mathematics.
 
 ```markdown
-Syntax highlighted code block
+Classes I am taking:
 
-# Header 1
-## Header 2
-### Header 3
+# C Programming Language
+## Programming Languages
+### Introduction to Computational Math
 
 - Bulleted
 - List
