@@ -7,7 +7,7 @@ Hello, internet readers, I am Brian Morck, (a.k.a. LinkedFate). I am a Senior at
 ```markdown
 **Interests:**
 
-- Programming
+- `Programming`
 - Robotics
 - Machine Learning
 - Game development
@@ -18,7 +18,6 @@ Hello, internet readers, I am Brian Morck, (a.k.a. LinkedFate). I am a Senior at
 _Even more interests:_
 1. TBD
 
-**Bold** and _Italic_ and `Code` text
 ```
 
 ### Projects
